@@ -1,4 +1,4 @@
 This is a file to practice using git. 
 This is exciting.
-This is not as hard as i imagined it would be.
+This is not as hard as I imagined it would be.
 The last statement might end being edited out -_-
